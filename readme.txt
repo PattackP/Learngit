@@ -1,1 +1,1 @@
-Git is version controller.
+Git is version controller,which means it works fine in each paste system.
